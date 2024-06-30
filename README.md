@@ -67,5 +67,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - SQLite for the database
 
 ![Health Check Up Recommendation System](./img/HealthCheckUpRecommendationSystem.png)
-![Health Check Up Recommendation System](./img/CheckUpForm.png.png)
-![Health Check Up Recommendation System](./img/Report.png.png)
+![Health Check Up Recommendation System](./img/CheckUpForm.png)
+![Health Check Up Recommendation System](./img/Report.png)
